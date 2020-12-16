@@ -242,3 +242,8 @@ it_is_wet && !it_is_cold ? "umbrella" : "light fabric" #=> "light fabric"
 ## Conclusion
 
 In this lesson, we've learned how to: use equality and quantity comparisons, invert truth values with `!` and `!!`, and use `&&` ("and") and `||` ("or) to create compound conditions. We also learned about `truthy` and `falsey` values in Ruby. Using these tools allows us to create expressions that are remarkably rich and to express very complex comparisons.
+
+## Resources
+
+* MDN
+  * [Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and [falsey](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
